@@ -1,0 +1,46 @@
+.caixa {
+	padding: 60px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.fundo-branco {
+	background: white;
+	border: 1px solid black;
+}
+
+/* Formatando links do menu
+*/
+.links-rodape ul li a:hover{
+	font-size: 18px;
+}
+
+/* Formatando links rodapé
+*/
+.links-rodape ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.links-menu a:hover{
+	font-size: 18px;
+}
+
+/* Fomatando links da página de serviços
+*/
+.area-menu-servicos li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 70px;
+	padding-left: 3px;
+	border-right: 2px solid #38a7bb;
+}
+.area-menu-servicos a {
+	font-size: 18px;
+	color: black;
+	text-decoration: none;
+}
+
+.area-menu-servicos li:hover {
+	color: white;
+	background: #ccc;
+}
